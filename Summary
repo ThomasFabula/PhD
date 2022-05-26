@@ -1,0 +1,68 @@
+Doctoral thesis in physics
+
+carried out at the Institute for Micro- and Information Technology of the Hahn-Schickard-Gesellschaft e.V. on the topic:
+
+Dynamic behaviour of micromechanical structures – Finite Element Simulation for design support and its verification by measurements
+
+
+Summary
+
+Within the scope of this work, the static and dynamic behaviour of micromechanical structures was investigated using 
+numerical and experimental methods. Since analytical methods usually assume simplifications and only consider idealized
+boundary conditions, the Finite Element Method (FEM) was used as a general numerical calculation method and various 
+calculation models were developed.
+
+The main focus was the simulation of frequency-analogue pressure and force sensors on the basis of resonant, 
+micromechanical bimorph structures, as well as the characterisation of the measured variable-dependent frequency change. 
+#In particular, the influences of anisotropic and temperature-dependent material properties as well as process-related 
+technological influences when using piezoelectric thin-film structures were investigated.
+
+FE models were developed to describe the load-dependent dynamic behaviour of frequency-analogue sensors and dimensioning 
+proposals were elaborated taking into account geometric non-linearities, in particular stress-stiffening effects. In this 
+way resonant silicon membrane pressure sensors with piezoelectric ZnO thin films could be designed and realized, which 
+are characterized by a measured pressure sensitivity of 12.4 Hz/mbar in a pressure range up to 500 mbar.
+
+On the basis of thin silicon bending bars electro-thermally driven force sensors were developed using NiCr thin film 
+resistors, which are characterized by a measured force sensitivity of about 170 Hz/N. In particular, the temperature-dependent 
+resonance behavior of the beam resonators was characterized by calculation and measurement techniques, and the temperature 
+sensitivity of the sensor was reduced fourfold by FEM-supported redesign of the resistor layout.
+
+With the help of coupled electro-mechanical field calculations, piezoelectric thin-film structures were modelled, 
+which made a contribution to the optimisation of the technological deposition processes. For this purpose, FE-models 
+for piezoelectric bimorph transducers were developed, which describe the dynamic behavior under consideration of the 
+electro-mechanical excitation, and design rules for application-specific optimization were derived. For sputtered ZnO 
+thin film structures, effective electro-mechanical coupling factors were determined by comparison with experimental 
+measurements. Furthermore, the influence of geometry on the effective electro-mechanical coupling factor was 
+simulated for different piezoelectrics (AlN, ZnO, PZT) and optimal layer thickness ratios were calculated. 
+In particular, a mode-selective electrode layout was developed for resonant membrane pressure sensors in 
+bimorph structure and the mode selectivity was verified by measurement. Simultaneous temperature compensation 
+of the frequency-pressure characteristic curve could be mathematically proven by lateral layer structuring.
+
+In support of the design, a layout for a resonant force sensor was developed using the FE method on the basis 
+of a triple beam structure. A high unimodality of the resonator was achieved by structuring the clamping areas 
+on both sides in a suitable way. Thereby the mode splitting between the fundamental mode and the desired, 
+antisymmetric vibration mode, in which the force sensor is operated, could be improved by a factor of 30. 
+The realized sensor is characterized by a measured force sensitivity of 8.6 kHz/N in the measuring range 
+up to 5 N.
+
+A new type of pressure sensor based on a BOD structure (beam-on-diaphragm, patented) was designed with the aid
+of FE calculations and mathematically optimized with respect to mode decoupling and sensitivity of the measured 
+variables. In particular, the effect of the lever mechanism of the pressure-introducing membrane on the vibrating
+beam was simulated, taking into account the complex beam clamping geometry caused by the manufacturing process. 
+The described BOD pressure sensor has several geometry parameters for variable design of the pressure sensitivity, 
+the pressure range and the overload behaviour.
+
+It has been mathematically proven that by changing the membrane thickness, sensors can be manufactured for 
+a pressure range of 0.5-12 bar with the same layout and the same overload safety. The experimentally realised 
+pressure sensor has a pressure sensitivity of 4.47 kHz/bar in the pressure range from -0.8 to 1.0 bar, with 
+a non-linearity of the characteristic curve of about +/- 3.8 %.
+
+
+Inaugural dissertation
+
+Inaugural dissertation for the acquisition of the doctorate of the 
+Faculty of Mathematics and Natural Sciences of the Rheinische Friedrich-Wilhelms-Universität Bonn.
+
+https://www.mnf.uni-bonn.de/
+
+https://www.uni-bonn.de/
