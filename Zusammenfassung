@@ -1,0 +1,75 @@
+Dissertation in Physik
+ 
+ausgeführt am Institut für Mikro- und Informationstechnik der Hahn-Schickard-Gesellschaft e.V. zum Thema:
+
+"Dynamisches Verhalten mikromechanischer Strukturen –
+Finite Elemente Simulation zur Entwurfsunterstützung und deren meßtechnische Verifikation"
+
+Zusammenfassung
+Im Rahmen dieser Arbeit wurde mit numerischen und experimentellen Methoden das statische und dynamische Verhalten
+mikromechanischer Strukturen untersucht. Da analytische Verfahren in der Regel von Vereinfachungen ausgehen und 
+nur idealisierte Randbedingungen berücksichtigen, wurde als allgemeines numerisches Berechnungsverfahren die 
+Finite-Elemente-Methode (FEM) eingesetzt und verschiedene Berechnungsmodelle entwickelt.
+
+Den Schwerpunkt bildete hierbei die Simulation frequenzanaloger Druck- und Kraftsensoren auf der Basis resonanter, 
+mikromechanischer Bimorph-Strukturen, sowie die Charakterisierung der meßgrößen-abhängigen Frequenzänderung. 
+Insbesondere wurden die Einflüsse anisotroper und temperaturabhängiger Materialeigenschaften, sowie prozeß-bedingte 
+Technologieeinflüsse beim Einsatz piezo-elektrischer Dünnschicht-Strukturen untersucht.
+
+Zur Beschreibung des last-abhängigen dynamischen Verhaltens frequenzanaloger Sensoren wurden FE-Modelle entwickelt
+und unter Berücksichtigung geometrischer Nichtlinearitäten, insbesondere spannungsversteifender Effekte, 
+Dimensionierungsvorschläge erarbeitet. Auf diese Weise konnten resonante Silizium-Membrandruck-Sensoren mit 
+piezoelektrischen ZnO-Dünnschichten entworfen und realisiert werden, die sich durch eine gemessene 
+Druck-Empfindlichkeit von 12,4 Hz/mbar in einem Druckbereich bis 500 mbar auszeichnen.
+
+Auf der Basis von dünnen Siliziumbiegebalken wurden elektro-thermisch mit Hilfe von NiCr-Dünnfilmwiderständen 
+angetriebene Kraftsensoren entwickelt, die sich durch eine gemessene Kraftempfindlichkeit von etwa 170 Hz/N 
+auszeichnen. Insbesondere konnte das temperatur-abhängige Resonanzverhalten der Balken-Resonatoren rechnerisch 
+und meßtechnisch charakterisiert und durch FEM-unterstütztes Redesign des Widerstandlayouts die 
+Temperatur-Empfindlichkeit des Sensors um das Vierfache erniedrigt werden.
+
+Mit Hilfe gekoppelter elektro-mechanischer Feldberechnungen wurden piezoelektrische Dünnschicht-Strukturen modelliert, 
+mit denen ein Beitrag zur Optimierung der technologischen Abscheideprozesse geleistet werden konnte. Hierzu wurden 
+FE-Modelle für piezo-elektrische Bimorph-Wandler entwickelt, die das dynamische Verhalten unter Berücksichtigung 
+der elektro-mechanischen Anregung beschreiben, und Entwurfsregeln zur anwendungsspezifischen Optimierung abgeleitet. 
+Für gesputterte ZnO-Dünnschichtstrukturen wurden durch Vergleich mit experimentellen Messungen effektive 
+elektro-mechanische Kopplungsfaktoren bestimmt. Weiterhin wurde für unterschiedliche Piezoelektrika (AlN, ZnO, PZT) 
+der Geometrie-Einfluß auf den effektiven elektro-mechanischen Kopplungsfaktor simuliert und optimale 
+Schichtdickenverhältnisse berechnet.
+
+Insbesondere konnte für resonante Membran-Drucksensoren in Bimorph-Aufbau ein modenselektives Elektrodenlayout 
+erarbeitet und die Modenselektivität meßtechnisch verifiziert werden. Eine gleichzeitige Temperatur-Kompensation 
+der Frequenz-Druck-Kennlinie konnte durch laterale Schichtstrukturierung rechnerisch nachgewiesen werden.
+
+Entwurfsunterstützend wurde mit Hilfe der FE-Methode auf der Basis einer Dreifachbalken-Struktur ein Layout für 
+einen resonanten Kraftsensor erarbeitet. Eine hohe Unimodalität des Resonators wurde erreicht, indem die beidseitigen 
+Einspannbereiche geeignet strukturiert wurden. Hierdurch konnte die Moden-Aufspaltung zwischen der Grundmode und der 
+gewünschten, antisymmetrischen Schwingungsmode, bei dem der Kraftsensor betrieben wird, um einen Faktor 30 verbessert 
+werden. Der realisierte Sensor zeichnet sich durch eine gemessene Kraftempfindlichkeit von 8,6 kHz/N im Meßbereich 
+bis 5 N aus.
+
+Ein neuartiger Drucksensor auf der Basis einer BOD-Struktur (Beam-on-diaphragm, patentiert) wurde mit Hilfe der 
+FE-Berechnungen konzipiert und in Bezug auf Modenentkopplung und Meßgrößen-Empfindlichkeit rechnerisch optimiert. 
+Insbesondere wurde die Wirkung des Hebelmechanismus der druckeinleitenden Membran auf den schwingenden Balken 
+simuliert und dabei die durch den Herstell-Prozeß bedingte komplexe Balkeneinspanngeometrie berücksichtigt.
+
+Der beschriebene BOD-Drucksensor weist mehrere Geometrieparameter zur variablen Auslegung der Druckempfindlichkeit, 
+des Druckbereichs und des Überlastverhaltens auf. Rechnerisch konnte nachgewiesen werden, daß durch Änderung der
+Membrandicke Sensoren für einen Druckbereich von 0,5-12 bar mit gleichem Layout bei gleicher Überlastsicherheit 
+herzustellen sind. Der experimentell realisierter Drucksensor besitzt eine Druck-Empfindlichkeit von 4,47 kHz/bar 
+im Druckbereich von -0,8 bis 1,0 bar, bei einer Kennlinien-Nichtlinearität von etwa +/- 3,8 %.
+
+
+Inaugural-Dissertation zur Erlangung des Doktorgrades der Mathematisch-Naturwissenschaftlichen Fakultät der 
+Rheinischen Friedrich-Wilhelms-Universität Bonn.
+
+vorgelegt von Diplom-Physiker Thomas Fabula aus Bad Godesberg, 1994.
+
+Referent : Prof. Dr. Stephanus. Büttgenbach (Institut für Mikrotechnik, TU Braunschweig)
+Korreferent : Prof. Dr. Siegfried Penselin (Institut für Angewandte Physik, Univ. Bonn)
+Disputation : Prof. Dr. Dieter Schütte (Institut für Theoretische Kernphysik, Univ. Bonn)
+Nebenfach : Radioastronomie, Argelander-Institut für Astronomie (AIfA)
+
+Katalog der Deutschen Nationalbibliothek
+https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=idn%3D943291712
+
