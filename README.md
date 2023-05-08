@@ -12,6 +12,7 @@ Institut für Mikro- und Informationstechnik der Hahn-Schickard-Gesellschaft fü
 Link: https://www.hahn-schickard.de/
 
 
-PhD thesis 
+PhD thesis - Doctor of natural sciences  
 https://tfconsult.com/thesis/
+https://tfconsult.com/doctor-of-natural-sciences/
 
