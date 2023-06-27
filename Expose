@@ -1,0 +1,75 @@
+Exposé der Dissertationsarbeit von Dipl.-Phys. Thomas Fabula
+Hahn-Schickard-Institut für Mikro- und Informationstechnik
+Villingen-Schwenningen
+
+
+"Dynamisches Verhalten mikromechanischer Systeme - Finite-Elemente Simulation zur Entwurfsunterstützung und deren meßtechnische Verifizierung"
+
+a.) Motivation:
+Bei der Realisierung von mikromechanischen Komponenten und Systemen sind neben der Bauelementfunktion die technologisch zu realisierenden 
+Funktionsprinzipien und die prozeßtechnischen Randbedingungen (z.B. Fertigungstoleranzen, Schichteigenspannungen) bereits in der Entwurfsphase 
+zu berücksichtigen. Reale mikromechanische Komponenten zeigen aufgrund der Miniaturisierung und des hohen Integrationsgrades eine starke 
+Wechselwirkung verschiedener physikalischer Einflußgrößen, die zu einer Überlagerung von unerwünschten Störeinflüssen führen. Zusätzlich 
+werden durch zunehmend komplexer werdende Strukturgeometrien und Materialzusammensetzungen erhöhte Anforderungen an den mikromechanischen 
+Entwurf gestellt, die den Einsatz entsprechender rechnergestützter Entwurfs- und Simulationsverfahren bedingen. Zur Zeit existieren keine 
+durchgehenden Entwurfswerkzeuge, die die vielfältigen Modellierungsanforderungen beim Entwurf von mikromechanischen Systemen abdecken. 
+Bisherige Untersuchungen beschränken sich auf die Modellierung einzelner mikromechanischer Komponenten und gestatten nur ansatzweise 
+die Vorhersage des Gesamtsystemverhaltens unter Berücksichtigung sich überlagernder Effekte. Ein weiteres Problem stellen die nicht 
+genau bekannten Materialeigenschaften mikrotechnisch hergestellter Dünnschichtsysteme dar.
+
+
+b.) Zielsetzung der Arbeit:
+Durch die Anwendung und Weiterentwicklung von geeigneten Modellierverfahren soll das physikalische Verhalten mikromechanischer Systeme 
+vorhergesagt werden. Ziel ist es, entwurfsunterstützend mit Hilfe analytischer und numerischer Berechnungsmethoden die Auslegung von 
+Mikrosystemen abzuleiten. Daher stellen die Erarbeitung und Formulierung der analytischen Zusammenhänge und die Entwicklung von 
+Simulationsmodellen für die numerischen Berechnungen unter Einsatz der Methode der Finiten Elemente einen Schwerpunkt der Arbeit dar.
+Hierzu werden der Einfluß der physikalischen Größen auf das Systemverhalten und die Eignung verschiedener Anregungs- und Detektionsprinzipien 
+untersucht, um eine geeignete Modellbildung vornehmen zu können. Elektrische und optische Meßverfahren dienen zur Charakterisierung der 
+dynamischen Mikrosysteme und zur experimentellen Verifizierung der Berechnungsergebnisse. Im Vorderdrund stehen hierbei Untersuchungen 
+an resonanten mikromechanischen Sensoren, die durch ihr frequenzanaloges Ausgangssignal für die Präzisionsmessung verschiedener 
+physikalischer Größen (z.B. Kraft, Beschleunigung, Druck, Temperatur, Massenfluß und Massenbelegung) verwendet werden können.
+
+
+c.) Inhaltliche Schwerpunkte der Arbeit:
+
+1.) Analytische Abschätzungen:
+Durch analytische Methoden soll das dynamische Verhalten ausgewählter mikromechanischer Grundgeometrien, wie Einfachbalken und Membranen, 
+auf der Basis von einkristallinem Silizium- und Quarzmaterial unter Berücksichtigung mikromechanischer Besonderheiten beschrieben werden.
+Die Untersuchung des Einflusses physikalischer Größen auf das Schwingungsverhalten der mikromechanischen Resonatoren erlaubt die Bewertung 
+der Eignung beispielsweise für resonante Sensoranwendungen. Nichtlinearitäten, die z.B. durch Schichtverspannungen und große 
+Schwingungsamplituden hervorgerufen werden, soll Rechnung getragen werden. Die analytischen Berechnungen ermöglichen eine 
+Grobdimensionierung der mikromechanischen Resonatoren und dienen als Startwerte für die Finite-Elemente Simulation. Durch einen 
+Vergleich mit den numerischen Berechnungen sollen die Grenzen der analytischen Beschreibungsweise aufgezeigt werden. 
+2.) Numerische Berechnungen:
+Mit Hilfe der Finite-Elemente Methode werden mikromechanische Resonatoren modelliert und für ausgewählte Grundgeometrien Basismodelle 
+entwickelt. Die statischen und dynamischen Kenngrößen der Mikrostrukturen werden unter Berücksichtigung verschiedener Anregungsarten 
+(thermisch, piezoelektrisch) berechnet und das Frequenzgangverhalten unter Berücksichtigung von inneren und äußeren Dämpfungseffekten 
+(Material- und Fluiddämpfung) ermittelt. Insbesondere finden in den numerischen Untersuchungen die kristallrichtungs- und 
+temperaturabhängigen Materialeigenschaften, der Einfluß der mikrotechnisch spezifischen Randbedingungen und der Aufbau- und 
+Verbindungstechnik (z.B. Gehäuseverspannung) Berücksichtigung. Einen weiteren Schwerpunkt stellen die gekoppelten Berechnungen 
+(thermische induzierte Spannungen, Piezoelektrizität) unter Berücksichtigung von nichtlinearem Strukturverhalten dar. Die Grenzen 
+der Finite-Elemente Berechnungsmethode und die erreichbaren Rechengenauigkeiten sollen durch Vergleich mit den experimentellen 
+Meßergebnissen aufgezeigt werden.
+
+3.) Meßtechnische Verifizierung:
+An mikrotechnisch hergestellten Resonatorstrukturen werden mit Hilfe von elektrischen und optischen Meßverfahren Messungen 
+zur Charakterisierung der Strukturen durchgeführt. Damit sollen die analytischen und numerischen Berechnungsmethoden verifiziert 
+und ihre Eignung für den mikromechanischen Entwurfsprozeß bewertet werden. Insbesondere werden hierbei sowohl die Grundeigenschaften 
+passiver Resonatorstrukturen (z.B. Resonanzfrequenzen, Amplitudengang, Temperaturverhalten) als auch die applikationsspezifischen 
+Sensoreigenschaften (z.B. Meßgrößenempfindlichkeit, Kennlinienlinearität) vermessen. Der Untersuchung von Dämpfungseffekten kommt 
+beim Entwurf von dynamischen Mikrosystemen eine wichtige Rolle zu und erlaubt Aussagen über die Schwingungsgüte des Gesamtsystems, 
+deren Einzelbeiträge meßtechnisch nur äußerst schwer zu bestimmen sind. 
+
+
+d.) Innovative Aspekte der Arbeit:
+Die Durchführung gekoppelter Finite-Elemente Berechnungen unter Einschluß von thermisch induzierten Schichtspannungen und 
+die Berücksichtigung der piezoelektrischen Schwingungsanregung an mikromechanischen Strukturen in Dünnschichtaufbau (sog. 
+Multilayerstrukturen) ermöglicht eine gezielte Vorhersage des Mikrosystemverhaltens. Von besonderem Interesse für die 
+Resonatoroptimierung sind hierbei Aussagen z.B. über die günstigsten Schichtdickenverhältnisse und die Formgebung der 
+Elektrodenstruktur. Für die Überprüfung und Optimierung der numerischen Berechnungsmodelle werden geeignete mikromechanische 
+Teststrukturen entwickelt. Unter Verwendung der neuartigen Teststrukturen können mit Hilfe dynamischer Meßmethoden neben 
+quantitativen Aussagen über die Prozeßqualität auch die mechanischen, thermischen und elektrischen Materialeigenschaften von
+mikrotechnisch hergestellten Schichtsystemen bestimmt werden.
+
+
+01/1992
