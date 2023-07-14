@@ -1,8 +1,6 @@
 # PhD
 
-Doctor of Physics
-
-Promotion in Physik - Dezember 1994
+Doctor of Physics - Promotion in Physik - Dezember 1994
 
 eingereicht bei der Universität Bonn, 
 Link: https://www.uni-bonn.de/
