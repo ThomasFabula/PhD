@@ -4,7 +4,7 @@
 Promotion in Physik, Dezember 1994, Bonn
 
 ## University of Bonn
-eingereicht bei der Universität Bonn, 
+eingereicht bei der Universität Bonn
 - https://www.uni-bonn.de/
 
 ## HSG-IMIT
