@@ -1,7 +1,7 @@
 # PhD
 
 ## Doctor of Physics 
-Promotion in Physik, Dezember 1994, Bonn, West-Germany
+Promotion in Physik, Dezember 1994, Bonn, Germany
 
 ## University of Bonn
 eingereicht bei der Universität Bonn
@@ -16,4 +16,3 @@ ausgeführt am HSG-IMIT in Villingen-Schwenningen
 PhD thesis - Doctor of natural sciences  
 - https://tfconsult.com/thesis/
 - https://tfconsult.com/doctor-of-natural-sciences/
-
