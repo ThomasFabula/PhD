@@ -1,7 +1,7 @@
 # PhD
 
 ## Doctor of Physics 
-Promotion in Physik, Dezember 1994, Bonn, Germany
+Promotion in Physik, Dezember 1994, University of Bonn, Germany
 
 ## University of Bonn
 eingereicht bei der Universität Bonn
