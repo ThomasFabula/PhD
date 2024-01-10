@@ -16,3 +16,5 @@ ausgeführt am HSG-IMIT in Villingen-Schwenningen
 PhD thesis - Doctor of natural sciences  
 - https://tfconsult.com/thesis/
 - https://tfconsult.com/doctor-of-natural-sciences/
+- https://github.com/ThomasFabula/PhD
+- 
