@@ -1,0 +1,58 @@
+   Diss: Thomas Fabula
+   ===================
+
+
+   Titel:
+   ------
+   Dynamisches Verhalten mikromechanischer Strukturen -
+   Finite Elemente Simulation zur Entwurfsunterstuetzung
+   und deren mesztechnische Verifikation
+
+
+   -----------------
+   Datum: 1994-12-02
+   -----------------
+
+
+
+   Datei:           Bemerkung:                              Status:
+   ================================================================
+   Deck         -   Titelblatt
+   ----------------------------------------------------------------
+   dtf0         -   (Inhaltsverzeichnis)
+                    Zusammenfassung
+                    Einleitung
+   ----------------------------------------------------------------
+   dtf1         -   Grundlagen der Mikromechanik
+   ----------------------------------------------------------------
+   dtf2a        -   Analytische Beschreibung
+   dtf2b            mikromechanischer Strukturen
+   dtf2c
+   ----------------------------------------------------------------
+   dtf3         -   Methode der Finiten Elemente
+   ----------------------------------------------------------------
+   dtf4a1       -   Resonante Mikrostrukturen
+   dtf4a2
+   dtf4b
+   dtf4c
+   ----------------------------------------------------------------
+   dtf5a        -   Piezoelektrische Duennschichtstrukturen
+   dtf5b1
+   dtf5b2
+   dtf5c
+   ----------------------------------------------------------------
+   dtf6a        -   Entwurfsunterstuetzung bei der
+   dtf6b            Sensorentwicklung
+   ----------------------------------------------------------------
+   dtf7         -   Schluszbetrachtung
+   ----------------------------------------------------------------
+   anhang       -   Anhang: Experimenteller Meszaufbau
+                    (Abbildungsverzeichnis)
+                    (Tabellenverzeichnis)
+   ----------------------------------------------------------------
+   lit          -   (Literaturverzeichnis)
+   ----------------------------------------------------------------
+   dank         -   Danksagung
+   ----------------------------------------------------------------
+   ll           -   Lebenslauf
+   ----------------------------------------------------------------
