@@ -1,5 +1,6 @@
 Exposé der Dissertationsarbeit von Dipl.-Phys. Thomas Fabula
 Hahn-Schickard-Institut für Mikro- und Informationstechnik
+
 Villingen-Schwenningen
 
 
@@ -40,7 +41,9 @@ der Eignung beispielsweise für resonante Sensoranwendungen. Nichtlinearitäten,
 Schwingungsamplituden hervorgerufen werden, soll Rechnung getragen werden. Die analytischen Berechnungen ermöglichen eine 
 Grobdimensionierung der mikromechanischen Resonatoren und dienen als Startwerte für die Finite-Elemente Simulation. Durch einen 
 Vergleich mit den numerischen Berechnungen sollen die Grenzen der analytischen Beschreibungsweise aufgezeigt werden. 
-2.) Numerische Berechnungen:
+
+
+2.) Numerische Berechnungen:
 Mit Hilfe der Finite-Elemente Methode werden mikromechanische Resonatoren modelliert und für ausgewählte Grundgeometrien Basismodelle 
 entwickelt. Die statischen und dynamischen Kenngrößen der Mikrostrukturen werden unter Berücksichtigung verschiedener Anregungsarten 
 (thermisch, piezoelektrisch) berechnet und das Frequenzgangverhalten unter Berücksichtigung von inneren und äußeren Dämpfungseffekten 
