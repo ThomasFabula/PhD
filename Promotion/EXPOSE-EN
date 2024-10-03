@@ -1,0 +1,84 @@
+Synopsis of the doctoral thesis by Dipl.-Phys. Thomas Fabula
+Hahn-Schickard-Institute for Micro- and Information Technology
+
+Villingen-Schwenningen
+
+
+"Dynamic Behavior of Micromechanical Systems - Finite Element Simulation for Design Support and its Verification by Measurement”
+
+a.) Motivation:
+When realizing micromechanical components and systems, the functional principles to be technologically realized and the 
+process-technical boundary conditions (e.g. manufacturing tolerances, layer internal stresses) must be taken into account 
+in the design phase, in addition to the component function.
+
+Due to miniaturization and the high degree of integration, real micromechanical components show a strong 
+interaction of various physical factors, which leads to a superimposition of unwanted disturbances. In addition, 
+increasingly complex structural geometries and material compositions place increased demands on the micromechanical 
+design, which requires the use of appropriate computer-aided design and simulation methods. At present, there are no 
+consistent design tools that cover the diverse modeling requirements for the design of micromechanical systems. 
+Previous investigations are limited to the modeling of individual micromechanical components and only allow rudimentary 
+predictions of the overall system behavior, taking into account overlapping effects. Another problem is the not 
+exactly known material properties of microtechnically manufactured thin-film systems.
+
+
+b.) Objective of the work:
+The physical behavior of micromechanical systems is to be predicted by applying and further developing suitable modeling methods.
+
+The aim is to derive the design of microsystems with the help of analytical and numerical calculation methods in order 
+to support the design process. Therefore, the development and formulation of analytical relationships and the development 
+of simulation models for the numerical calculations using the finite element method.
+To this end, the influence of the physical variables on the system behavior and the suitability of different excitation and 
+detection principles are investigated in order to be able to carry out suitable modeling. Electrical and optical measurement
+methods are used to characterize the dynamic microsystems and for the experimental verification of the calculation results. 
+In the foreground are investigations on resonant micromechanical sensors, which can be used for the precision measurement of
+various physical quantities (e.g. force, acceleration, pressure, temperature, mass flow and mass loading) due to their 
+frequency-analog output signal.
+
+
+c.) Main topics of the work:
+
+1.) Analytical estimates:
+The dynamic behavior of selected micromechanical basic geometries, such as simple beams and membranes, is to be described 
+by analytical methods on the basis of single-crystal silicon and quartz material, taking into account micromechanical 
+peculiarities.
+The investigation of the influence of physical quantities on the vibrational behavior of the micromechanical resonators 
+allows the evaluation the suitability for resonant sensor applications, for example. Non-linearities, which are caused 
+by layer strain and large vibration amplitudes, for example, are to be taken into account. The analytical calculations 
+enable a rough dimensioning of the micromechanical resonators and serve as initial values for the finite element simulation. 
+comparison with the numerical calculations, the limits of the analytical description are to be demonstrated. 
+
+2.) Numerical calculations:
+With the help of the finite element method, micromechanical resonators are modeled and basic models are developed for 
+selected basic geometries. The static and dynamic characteristics of the microstructures are calculated taking into account
+various types of excitation (thermal, piezoelectric) and the frequency response behavior is determined taking into
+account internal and external damping effects (material and fluid damping). In particular, the numerical investigations 
+take into account the crystal orientation and temperature-dependent material properties, the influence of microtechnically 
+specific boundary conditions and the assembly and connection technology (e.g. housing bracing). A further focus is on 
+coupled calculations (thermally induced voltages, piezoelectricity) taking into account non-linear structural behavior.
+The limits of the finite element calculation method and the achievable calculation accuracies are to be demonstrated 
+by comparison with experimental 
+measurement results.
+
+3.) Measurement-based verification:
+Electrical and optical measurement techniques are used to characterize micro-fabricated resonator structures. This is to 
+verify the analytical and numerical calculation methods and to evaluate their suitability for the micromechanical design
+process. In particular, both the basic properties of passive resonator structures (e.g. resonant frequencies, amplitude
+response, temperature behavior) as well as the application-specific sensor properties (e.g. sensitivity, linearity of
+characteristics) are measured. The investigation of damping effects plays an important role in the design of dynamic
+microsystems and allows statements to be made about the vibrational quality of the overall system, 
+whose individual contributions are extremely difficult to determine by measurement.
+
+
+d.) Innovative aspects of the work:
+The implementation of coupled finite element calculations, including thermally induced layer stresses and 
+consideration of piezoelectric vibration excitation at micromechanical structures in thin-film construction (so-called 
+multilayer structures) allows a targeted prediction of the microsystem behavior. Of particular interest for 
+resonator optimization are statements, for example, about the most favorable layer thickness ratios and the shaping of the 
+electrode structure. Suitable micromechanical test structures are being developed to verify and optimize the numerical 
+calculation models.
+
+Using the novel test structures, dynamic measurement methods can be used to quantitative statements about the process
+quality, the mechanical, thermal and electrical material properties of micro-engineered layer systems can be determined.
+
+
+01/1992
